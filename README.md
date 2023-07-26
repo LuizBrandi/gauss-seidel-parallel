@@ -1,0 +1,1 @@
+Implementação de método iterativo em paralelo utilizando o OPENMP.
